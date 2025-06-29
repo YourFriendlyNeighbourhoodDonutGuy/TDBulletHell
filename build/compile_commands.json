@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/jamie/Documents/TDBulletHell/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/TDBulletHell.dir/Main.cpp.o -c /home/jamie/Documents/TDBulletHell/Main.cpp",
+  "file": "/home/jamie/Documents/TDBulletHell/Main.cpp",
+  "output": "CMakeFiles/TDBulletHell.dir/Main.cpp.o"
+}
+]
