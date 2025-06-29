@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/jamie/Documents/TDBulletHell/src/Main.cpp" "CMakeFiles/TDBulletHell.dir/src/Main.cpp.o" "gcc" "CMakeFiles/TDBulletHell.dir/src/Main.cpp.o.d"
-  "" "TDBulletHell" "gcc" "CMakeFiles/TDBulletHell.dir/link.d"
+  "/home/jamie/Documents/TDBulletHell/Main.cpp" "CMakeFiles/TDBulletHell.dir/Main.cpp.o" "gcc" "CMakeFiles/TDBulletHell.dir/Main.cpp.o.d"
+  "" "bin/TDBulletHell" "gcc" "CMakeFiles/TDBulletHell.dir/link.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
