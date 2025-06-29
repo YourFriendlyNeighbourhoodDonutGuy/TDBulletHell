@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/TDBulletHell.dir/link.d CMakeFiles/TDBulletHell.dir/Main.cpp.o -o TDBulletHell
